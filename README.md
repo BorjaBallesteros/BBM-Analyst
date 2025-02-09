@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BorjaBallesteros
-- 👀 I’m interested in growing my skills as a data analyst.
-- 🌱 I’m currently learning the most used programming languages such as R and Python.
-- ⚡ I’m passionate about data and how it helps us make the best possible decisions.
-- 💞️ I would like to collaborate with a company in order to introduce me to the world of data.
-  
-- 📫 To contact me you can do it through my personal email bballesterosmorata@gmail.com
+- 👀 My priority right now is to improve all my skills as a data analyst.
+- 🌱 The main programming languages I use are R and Python.
+- ⚡ The analysis of data excites me because it leads to optimal choices for decision making situations.
+- 💞️ My objective is to work with a company which could expose me to data analysis practice.
+- 📫 You can reach me by using my personal email which is bballesterosmorata@gmail.com.
